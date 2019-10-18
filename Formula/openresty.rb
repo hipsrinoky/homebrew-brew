@@ -5,7 +5,7 @@ class Openresty < Formula
   homepage "https://openresty.org"
   VERSION = "1.15.8.2".freeze
   url "file:///Users/yuuu/Desktop/tst/hps-openresty.tar.gz"
-  sha256 "7c84ac6f1543838fa5e5ae7e276f508cbe1851f48299ddf623d42a011c37fe4a"
+  sha256 "3b36ef0b9bf404518bdef1fe34b442b12f929677c6fde06f358f6e6432bca900"
 
   option "with-postgresql", "Compile with ngx_http_postgres_module"
   option "with-iconv", "Compile with ngx_http_iconv_module"
