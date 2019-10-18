@@ -4,8 +4,8 @@ class Openresty < Formula
   desc "Scalable Web Platform by Extending NGINX with Lua"
   homepage "https://openresty.org"
   VERSION = "1.15.8.2".freeze
-  url "file:///Users/yuuu/Desktop/tst/4395089f0fd423261d4f1124b7beb0f69e1121e59d399e89eaa6e25b641333bc--openresty-1.15.8.2-hps.tar.gz"
-  sha256 "3d867eac9980670a3fb6531718cd1c67d9f2f45a0f3a7d40cd1e6b0607182469"
+  url "file:///Users/yuuu/Desktop/tst/hps-openresty.tar.gz"
+  sha256 "cc4ec6c951c63df2322e06aa0c07b8a5b14e5d190785ad84d6bc6f331c0ed079"
 
   option "with-postgresql", "Compile with ngx_http_postgres_module"
   option "with-iconv", "Compile with ngx_http_iconv_module"
